@@ -13,11 +13,11 @@
 <p align="left"> <a href="https://twitter.com/shivampawar1038" target="blank"><img src="https://img.shields.io/twitter/follow/shivampawar1038?logo=twitter&style=for-the-badge" alt="shivampawar1038" /></a> </p>
 <p align="left">
 <a href="https://dev.to/shivampawar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shivampawar" height="30" width="40" /></a>
-<a href="https://twitter.com/shivampawar1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivampawar1038" height="30" width="60" /></a>
-<a href="https://linkedin.com/in/shivam-prakash-pawar" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-prakash-pawar" height="30" width="60" /></a>
-<a href="https://stackoverflow.com/users/12633305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12633305" height="30" width="60" /></a>
-<a href="https://instagram.com/auspicious_sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="auspicious_sp" height="30" width="60" /></a>
-<a href="https://www.youtube.com/c/sptechlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sptechlab" height="30" width="60" /></a>
+<a href="https://twitter.com/shivampawar1038" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shivampawar1038" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shivam-prakash-pawar" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-prakash-pawar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12633305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12633305" height="30" width="40" /></a>
+<a href="https://instagram.com/auspicious_sp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="auspicious_sp" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sptechlab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sptechlab" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
